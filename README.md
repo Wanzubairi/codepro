@@ -1,4 +1,4 @@
-# codepro
+# Git and Github course 
 
 ## This repo was used to learn from Amigoscode
 
